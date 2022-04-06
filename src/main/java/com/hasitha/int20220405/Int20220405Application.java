@@ -1,4 +1,4 @@
-package com.hasitha.int20220405.int20220405;
+package com.hasitha.int20220405;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
