@@ -5,8 +5,7 @@ plugins {
 }
 
 group = 'com.hasitha.int20220405'
-version = '0.0.1-SNAPSHOT'
-sourceCompatibility = '17'
+version = '0.0.1'
 
 configurations {
 	compileOnly {
